@@ -45,4 +45,6 @@
 - `base-analysis`：关键词分析及其可视化
 - `sentimate-analysis`：微调 Roberta 大模型；情感分类结果可视化
 - `theme-analysis`：基于 LDA 的主题分类及其可视化
+- `data-clean`：简单的数据清洗
+- `doraspider`：基于 Scrpay 的爬虫，用于爬取 2024 年哆啦校圈的所有帖子数据
 
